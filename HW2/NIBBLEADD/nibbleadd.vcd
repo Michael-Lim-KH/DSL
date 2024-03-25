@@ -1,0 +1,107 @@
+$date
+	Thu Feb 08 15:08:10 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module nibbleadd_tb $end
+$var wire 5 ! q [4:0] $end
+$var reg 8 " A [7:0] $end
+$var reg 8 # B [7:0] $end
+$var reg 1 $ ctrl $end
+$scope module nibbleadd_t0 $end
+$var wire 8 % A [7:0] $end
+$var wire 8 & B [7:0] $end
+$var wire 1 $ ctrl $end
+$var reg 5 ' q [4:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b101 '
+b10000001 &
+b100100 %
+0$
+b10000001 #
+b100100 "
+b101 !
+$end
+#10
+b1100 !
+b1100 '
+b1100011 #
+b1100011 &
+b1001 "
+b1001 %
+#20
+b11010 !
+b11010 '
+b10001101 #
+b10001101 &
+b1101 "
+b1101 %
+#30
+b111 !
+b111 '
+b10010 #
+b10010 &
+b1100101 "
+b1100101 %
+#40
+b1110 !
+b1110 '
+b1101 #
+b1101 &
+b1 "
+b1 %
+#50
+b1010 !
+b1010 '
+1$
+b111101 #
+b111101 &
+b1110110 "
+b1110110 %
+#60
+b10110 !
+b10110 '
+b10001100 #
+b10001100 &
+b11101101 "
+b11101101 %
+#70
+b11011 !
+b11011 '
+b11000110 #
+b11000110 &
+b11111001 "
+b11111001 %
+#80
+b10110 !
+b10110 '
+b10101010 #
+b10101010 &
+b11000101 "
+b11000101 %
+#90
+b10101 !
+b10101 '
+b1110111 #
+b1110111 &
+b11100101 "
+b11100101 %
+#100
+b1001 !
+b1001 '
+b10001111 #
+b10001111 &
+b10010 "
+b10010 %
+#110

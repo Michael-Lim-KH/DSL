@@ -1,0 +1,58 @@
+$date
+	Thu Feb 08 14:36:24 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module multiplexer_tb $end
+$var wire 2 ! X [1:0] $end
+$var reg 2 " A [1:0] $end
+$var reg 2 # B [1:0] $end
+$var reg 2 $ C [1:0] $end
+$var reg 2 % D [1:0] $end
+$var reg 2 & SEL [1:0] $end
+$scope module multiplexer_t0 $end
+$var wire 2 ' A [1:0] $end
+$var wire 2 ( B [1:0] $end
+$var wire 2 ) C [1:0] $end
+$var wire 2 * D [1:0] $end
+$var wire 2 + SEL [1:0] $end
+$var reg 2 , X [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 ,
+b0 +
+b11 *
+b1 )
+b1 (
+b0 '
+b0 &
+b11 %
+b1 $
+b1 #
+b0 "
+b0 !
+$end
+#10
+b1 !
+b1 ,
+b1 &
+b1 +
+#20
+b10 &
+b10 +
+#30
+b11 !
+b11 ,
+b11 &
+b11 +
+#40

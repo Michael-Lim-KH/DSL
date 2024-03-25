@@ -1,0 +1,136 @@
+$date
+	Thu Feb 08 15:38:05 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module CCTA_tb $end
+$var wire 5 ! q [4:0] $end
+$var reg 4 " A [3:0] $end
+$var reg 4 # B [3:0] $end
+$var reg 4 $ C [3:0] $end
+$var reg 1 % ctrl $end
+$var reg 1 & rst $end
+$scope module CCTA_t0 $end
+$var wire 4 ' A [3:0] $end
+$var wire 4 ( B [3:0] $end
+$var wire 4 ) C [3:0] $end
+$var wire 1 % ctrl $end
+$var wire 1 & rst $end
+$var reg 5 * q [4:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 *
+b1001 )
+b1 (
+b100 '
+1&
+0%
+b1001 $
+b1 #
+b100 "
+b0 !
+$end
+#10
+b101 !
+b101 *
+0&
+#20
+b10000 !
+b10000 *
+b1101 $
+b1101 )
+b1101 #
+b1101 (
+b11 "
+b11 '
+#30
+b111 !
+b111 *
+b1 $
+b1 )
+b10 #
+b10 (
+b101 "
+b101 '
+#40
+b10011 !
+b10011 *
+b1101 $
+b1101 )
+b110 #
+b110 (
+b1101 "
+b1101 '
+#50
+b11001 !
+b11001 *
+b1001 $
+b1001 )
+b1100 #
+b1100 (
+#60
+b11100 !
+b11100 *
+1%
+b1010 $
+b1010 )
+b101 #
+b101 (
+b110 "
+b110 '
+#70
+b11 !
+b11 *
+b10 $
+b10 )
+b111 #
+b111 (
+b101 "
+b101 '
+#80
+b1 !
+b1 *
+b1110 $
+b1110 )
+b10 #
+b10 (
+b1111 "
+b1111 '
+#90
+b11100 !
+b11100 *
+b1100 $
+b1100 )
+b101 #
+b101 (
+b1000 "
+b1000 '
+#100
+b1000 !
+b1000 *
+b101 $
+b101 )
+b1101 #
+b1101 (
+b1101 "
+b1101 '
+#110
+b11 !
+b11 *
+b0 $
+b0 )
+b1010 #
+b1010 (
+b11 "
+b11 '
+#120

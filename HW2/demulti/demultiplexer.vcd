@@ -1,0 +1,68 @@
+$date
+	Thu Feb 08 14:35:09 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module demultiplexer_tb $end
+$var wire 2 ! Z [1:0] $end
+$var wire 2 " Y [1:0] $end
+$var wire 2 # X [1:0] $end
+$var wire 2 $ W [1:0] $end
+$var reg 2 % A [1:0] $end
+$var reg 2 & SEL [1:0] $end
+$scope module demultiplexer_t0 $end
+$var wire 2 ' A [1:0] $end
+$var wire 2 ( SEL [1:0] $end
+$var reg 2 ) W [1:0] $end
+$var reg 2 * X [1:0] $end
+$var reg 2 + Y [1:0] $end
+$var reg 2 , Z [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 ,
+b0 +
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#10
+b1 #
+b1 *
+b1 &
+b1 (
+b1 %
+b1 '
+#20
+b0 #
+b0 *
+b1 "
+b1 +
+b10 &
+b10 (
+#30
+b0 "
+b0 +
+b11 !
+b11 ,
+b11 &
+b11 (
+b11 %
+b11 '
+#40
